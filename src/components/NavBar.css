@@ -1,10 +1,22 @@
 .navbar {
+    background-color: rgba(126, 110, 110, 0.7); /* Somewhat transparent white background */
+    padding: 10px;
+    list-style: none;
     display: flex;
-    flex-wrap: nowrap;
-    justify-content: left;
+    justify-content: space-between;
+    border-radius: 10%;
 }
 
 .navbar__item {
-    flex-basis: 20%;
-    list-style-type: none;
+    margin-right: 10px;
+}
+
+.navbar__item a {
+    text-decoration: none;
+    color: #1a1a1a;
+}
+
+.navbar__item a:hover {
+    color: #ff0000; /* Red color on hover */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

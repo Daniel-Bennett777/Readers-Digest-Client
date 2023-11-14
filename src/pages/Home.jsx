@@ -1,8 +1,8 @@
 function Home() {
     return (
-      <main className='text-slate-900 pl-10 pr-10'>
-        <h1 className='text-4xl'>Welcome to The Readers Digest</h1>
-      </main>
+      <div className="flex items-center justify-center h-screen bg-green-100">
+      <h1 className="text-4xl text-green-700 font-bold">Welcome to Readers Digest</h1>
+    </div>
     )
   }
   
