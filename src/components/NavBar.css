@@ -1,9 +1,9 @@
 .navbar {
-    background-color: rgba(126, 105, 110, 0.7); /* Somewhat transparent white background */
+    background-color: rgba(125, 105, 110, 0.7); /* Somewhat transparent white background */
     padding: 10px;
     list-style: none;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     border-radius: 10%;
 }
 
