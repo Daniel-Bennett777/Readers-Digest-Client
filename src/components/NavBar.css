@@ -1,5 +1,5 @@
 .navbar {
-    background-color: rgba(126, 110, 110, 0.7); /* Somewhat transparent white background */
+    background-color: rgba(126, 105, 110, 0.7); /* Somewhat transparent white background */
     padding: 10px;
     list-style: none;
     display: flex;
@@ -8,7 +8,7 @@
 }
 
 .navbar__item {
-    margin-right: 10px;
+    margin-right: 5px;
 }
 
 .navbar__item a {
