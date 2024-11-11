@@ -17,6 +17,6 @@
 }
 
 .navbar__item a:hover {
-    color: #ff0000; /* Red color on hover */
+    color: green; /* Red color on hover */
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
